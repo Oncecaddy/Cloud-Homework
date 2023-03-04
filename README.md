@@ -9,6 +9,6 @@ The Armstrong number is used to find out whether the cube of each of the digits 
 This program can be used entirely from the console. It is sufficient to give two different arguments for this. These arguments are upper and lower value.
 
 ```
-git clone asdasd
-cd asdasd
+git clone https://github.com/Oncecaddy/Cloud-Homework.git
+cd https://github.com/Oncecaddy/Cloud-Homework.git
 python main.py --upper <integer> --lower <integer>
