@@ -10,5 +10,5 @@ This program can be used entirely from the console. It is sufficient to give two
 
 ```
 git clone https://github.com/Oncecaddy/Cloud-Homework.git
-cd https://github.com/Oncecaddy/Cloud-Homework.git
+cd Cloud Homework
 python main.py --upper <integer> --lower <integer>
